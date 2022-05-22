@@ -8,11 +8,8 @@
    <a href="https://www.linkedin.com/in/alain-nielsen" target="_blank"> <img align="center" alt="alain-twitter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>    
    <a href="https://twitter.com/themirok" target="_blank"> <img align="center" alt="alain-twitter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>
    <a href="https://www.facebook.com/themirok/" target="_blank"> <img align="center" alt="alain-twitter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
-   <a href="https://instagram.com/themirok" target="_blank"> <img align="center" alt="alain-twitter" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>
-          
-</div>  
-          
-
+   <a href="https://instagram.com/themirok" target="_blank"> <img align="center" alt="alain-twitter" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>          
+</div>          
 
 ##
 
